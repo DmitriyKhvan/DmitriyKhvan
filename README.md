@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
   ![](assets/banner.gif)
-</div>
 
 ###
 
