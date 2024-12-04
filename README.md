@@ -1,3 +1,9 @@
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="assets/banner.gif"  />
+</div>
+
 ###
 
 <h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
