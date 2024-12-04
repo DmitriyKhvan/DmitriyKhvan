@@ -1,7 +1,5 @@
 <br clear="both">
-
-  ![](assets/banner.gif)
-
+![banner](https://github.com/user-attachments/assets/e4775baa-1b8c-42c1-bb80-91e3fc0b2c7d)
 ###
 
 <h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
