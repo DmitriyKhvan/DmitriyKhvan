@@ -46,7 +46,7 @@
 <img width="12" />
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="assets/redux.svg" alt="Redux" height="40" /></a>  
 <img width="12" />
-<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="assets/graphql.png" alt="GraphQL" height="40" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="assets/graphql.svg" alt="GraphQL" height="40" /></a>  
 <img width="12" />
 <a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="assets/angular.svg" alt="Angular" height="40" /></a>  
 <img width="12" />
