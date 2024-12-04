@@ -31,17 +31,28 @@
 ###
 
 <div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="assets/javascript.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="assets/typescript.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="assets/react.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="assets/redux.svg" alt="Redux" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="assets/angular.svg" alt="Angular" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="assets/vue.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="assets/git.svg" alt="Git" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="assets/css3.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="assets/html5.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="assets/javascript.svg" alt="JavaScript" height="40" /></a>  
+<img width="12" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="assets/typescript.svg" alt="TypeScript" height="40" /></a>  
+<img width="12" />
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="assets/react.svg" alt="React" height="40" /></a>  
+<img width="12" />
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="assets/redux.svg" alt="Redux" height="40" /></a>  
+<img width="12" />
+<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="assets/graphql.png" alt="GraphQL" height="40" /></a>  
+<img width="12" />
+<a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="assets/angular.svg" alt="Angular" height="40" /></a>  
+<img width="12" />
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="assets/vue.svg" alt="Vue.js" height="40" /></a>  
+<img width="12" />
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="assets/git.svg" alt="Git" height="40" /></a>  
+<img width="12" />
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
+<img width="12" />
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="assets/css3.svg" alt="CSS3" height="40" /></a>  
+<img width="12" />
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="assets/html5.svg" alt="HTML5" height="40" /></a>  
+<img width="12" />
 </div>
 
 ###
@@ -56,8 +67,23 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="profile-details"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="profile-details"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={DmitriyKhvan}&theme={nord_dark}" alt="profile-details"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={DmitriyKhvan}&theme={nord_dark}&utcOffset={utcOffset}" alt="profile-details"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="most-commit-language"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={DmitriyKhvan}&theme={nord_dark}" alt="stats"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={DmitriyKhvan}&theme={nord_dark}&utcOffset={utcOffset}" alt="productive-time"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DmitriyKhvan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DmitriyKhvan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriyKhvan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
