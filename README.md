@@ -68,16 +68,9 @@
 
 ###
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={DmitriyKhvan}&theme={nord_dark}" alt="profile-details"  />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="profile-details"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="most-commit-language"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={DmitriyKhvan}&theme={nord_dark}" alt="stats"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={DmitriyKhvan}&theme={nord_dark}&utcOffset={utcOffset}" alt="productive-time"  />
-</div>
+[![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ###
 
