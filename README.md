@@ -11,6 +11,11 @@
 
 ###
 
+<h3 align="left">🌐 Соц. сети:</h3>
+
+<a href="https://www.linkedin.com/in/dmitriy-khvan" target="_blank"><img src="assets/linkedIn.svg" alt="LinkedIn" height="25"/></a>
+<a href="https://t.me/Dmitriy_Khvan" target="_blank"><img src="assets/telegram.svg" alt="Telegram" height="25"/></a>
+
 ###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
