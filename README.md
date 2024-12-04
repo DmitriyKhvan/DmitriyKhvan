@@ -31,17 +31,17 @@
 ###
 
 <div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="assets/react.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="assets/redux.svg" alt="Redux" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="assets/angular.svg" alt="Angular" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="assets/vue.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="assets/git.svg" alt="Git" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="assets/css3.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="assets/html5.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="assets/javascript.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="assets/typescript.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="assets/react.svg" alt="React" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="assets/redux.svg" alt="Redux" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="assets/angular.svg" alt="Angular" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="assets/vue.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="assets/git.svg" alt="Git" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="assets/css3.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="assets/html5.svg" alt="HTML5" height="50" /></a>  
 </div>
 
 ###
@@ -50,4 +50,14 @@
 
 ###
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={DmitriyKhvan}&theme={nord_dark}
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={DmitriyKhvan}&theme={nord_dark}" alt="profile-details"  />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="profile-details"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={DmitriyKhvan}&theme={nord_dark}&exclude={exclude}" alt="profile-details"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={DmitriyKhvan}&theme={nord_dark}" alt="profile-details"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={DmitriyKhvan}&theme={nord_dark}&utcOffset={utcOffset}" alt="profile-details"  />
+</div>
+
