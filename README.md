@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="assets/banner.gif"  />
+  ![](assets/banner.gif)
 </div>
 
 ###
