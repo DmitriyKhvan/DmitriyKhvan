@@ -11,12 +11,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriyKhvan.DmitriyKhvan&"  />
-</div>
-
-###
-
 <h3 align="left">🌐 Соц. сети:</h3>
 
 <a href="https://www.linkedin.com/in/dmitriy-khvan" target="_blank"><img src="assets/linkedIn.svg" alt="LinkedIn" height="25"/></a>
@@ -99,4 +93,8 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriyKhvan.DmitriyKhvan&"  />
+</div>
 
