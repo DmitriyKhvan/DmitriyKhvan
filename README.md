@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div align="center">
   <!-- <img height="auto" width="100%" src="https://github.com/user-attachments/assets/e4775baa-1b8c-42c1-bb80-91e3fc0b2c7d"  /> -->
   <img height="auto" width="100%" src="assets/banner (1).gif"  />
