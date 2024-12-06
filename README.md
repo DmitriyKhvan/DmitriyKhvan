@@ -7,7 +7,11 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
+<h1 align="center">Привет <img width="30" src="assets/hello-gif-min.gif"> Меня зовут Дмитрий!</h1>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriyKhvan.DmitriyKhvan&"  />
+</div>
 
 ###
 
@@ -104,7 +108,5 @@
 ### 
 -->
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriyKhvan.DmitriyKhvan&"  />
-</div>
+
 
