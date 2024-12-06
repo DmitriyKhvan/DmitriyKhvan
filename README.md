@@ -13,7 +13,7 @@
 
 <h3 align="left">🌐 Соц. сети:</h3>
 
-<div style="display: flex; gap: 0.5rem">
+<div>
   <a href="https://www.linkedin.com/in/dmitriy-khvan" target="_blank"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
   <a href="https://t.me/Dmitriy_Khvan" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
 </div>
@@ -46,17 +46,28 @@
 ###
 
 <div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 9px" src="assets/javascript.svg" alt="JavaScript" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 9px" src="assets/typescript.svg" alt="TypeScript" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 9px" src="assets/react.svg" alt="React" height="40" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 9px" src="assets/redux.svg" alt="Redux" height="40" /></a>
-<a href="https://graphql.org/" target="_blank"><img style="margin: 9px" src="assets/graphql.svg" alt="GraphQL" height="40" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 9px" src="assets/angular.svg" alt="Angular" height="40" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 9px" src="assets/vue.svg" alt="Vue.js" height="40" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 9px" src="assets/git.svg" alt="Git" height="40" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 9px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 9px" src="assets/css3.svg" alt="CSS3" height="40" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 9px" src="assets/html5.svg" alt="HTML5" height="40" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="assets/javascript.svg" alt="JavaScript" height="40" /></a>
+<img width='12' />
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="assets/typescript.svg" alt="TypeScript" height="40" /></a>
+<img width='12' />
+<a href="https://reactjs.org/" target="_blank"><img src="assets/react.svg" alt="React" height="40" /></a>
+<img width='12' />
+<a href="https://redux.js.org/" target="_blank"><img src="assets/redux.svg" alt="Redux" height="40" /></a>
+<img width='12' />
+<a href="https://graphql.org/" target="_blank"><img src="assets/graphql.svg" alt="GraphQL" height="40" /></a>
+<img width='12' />
+<a href="https://angular.io/" target="_blank"><img src="assets/angular.svg" alt="Angular" height="40" /></a>
+<img width='12' />
+<a href="https://vuejs.org/" target="_blank"><img src="assets/vue.svg" alt="Vue.js" height="40" /></a>
+<img width='12' />
+<a href="https://github.com/" target="_blank"><img src="assets/git.svg" alt="Git" height="40" /></a>
+<img width='12' />
+<a href="https://www.tailwindcss.com/" target="_blank"><img src="assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
+<img width='12' />
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="assets/css3.svg" alt="CSS3" height="40" /></a>
+<img width='12' />
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="assets/html5.svg" alt="HTML5" height="40" /></a>
+<img width='12' />
 </div>
 
 ###
@@ -65,8 +76,11 @@
 
 ###
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem">
-  <img style="grid-column: 1 / 3" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKhvan&theme=nord_dark" alt="profile-details" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKhvan&theme=nord_dark" alt="profile-details" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKhvan&theme=nord_dark" alt="repos-per-language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyKhvan&theme=nord_dark" alt="most-commit-language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKhvan&theme=nord_dark" alt="stats" />
