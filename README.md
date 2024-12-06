@@ -15,8 +15,9 @@
 
 <div style="display: flex; gap: 0.5rem">
   <a href="https://www.linkedin.com/in/dmitriy-khvan" target="_blank">
-    <!-- <img src="assets/linkedIn.svg" alt="LinkedIn" height="25"/></a> -->
+    <!-- <img src="assets/linkedIn.svg" alt="LinkedIn" height="25"/> -->
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
   <a href="https://t.me/Dmitriy_Khvan" target="_blank">
     <!-- <img src="assets/telegram.svg" alt="Telegram" height="25"/> -->
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
