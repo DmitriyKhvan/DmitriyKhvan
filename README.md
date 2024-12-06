@@ -13,8 +13,13 @@
 
 <h3 align="left">🌐 Соц. сети:</h3>
 
-<a href="https://www.linkedin.com/in/dmitriy-khvan" target="_blank"><img src="assets/linkedIn.svg" alt="LinkedIn" height="25"/></a>
-<a href="https://t.me/Dmitriy_Khvan" target="_blank"><img src="assets/telegram.svg" alt="Telegram" height="25"/></a>
+<a href="https://www.linkedin.com/in/dmitriy-khvan" target="_blank">
+<!-- <img src="assets/linkedIn.svg" alt="LinkedIn" height="25"/></a> -->
+<img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+<a href="https://t.me/Dmitriy_Khvan" target="_blank">
+<!-- <img src="assets/telegram.svg" alt="Telegram" height="25"/> -->
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</a>
 
 ###
 
@@ -43,28 +48,17 @@
 ###
 
 <div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="assets/javascript.svg" alt="JavaScript" height="40" /></a>  
-<img width="12" />
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="assets/typescript.svg" alt="TypeScript" height="40" /></a>  
-<img width="12" />
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="assets/react.svg" alt="React" height="40" /></a>  
-<img width="12" />
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="assets/redux.svg" alt="Redux" height="40" /></a>  
-<img width="12" />
-<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="assets/graphql.svg" alt="GraphQL" height="40" /></a>  
-<img width="12" />
-<a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="assets/angular.svg" alt="Angular" height="40" /></a>  
-<img width="12" />
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="assets/vue.svg" alt="Vue.js" height="40" /></a>  
-<img width="12" />
-<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="assets/git.svg" alt="Git" height="40" /></a>  
-<img width="12" />
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
-<img width="12" />
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="assets/css3.svg" alt="CSS3" height="40" /></a>  
-<img width="12" />
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="assets/html5.svg" alt="HTML5" height="40" /></a>  
-<img width="12" />
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 9px" src="assets/javascript.svg" alt="JavaScript" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 9px" src="assets/typescript.svg" alt="TypeScript" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 9px" src="assets/react.svg" alt="React" height="40" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 9px" src="assets/redux.svg" alt="Redux" height="40" /></a>
+<a href="https://graphql.org/" target="_blank"><img style="margin: 9px" src="assets/graphql.svg" alt="GraphQL" height="40" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 9px" src="assets/angular.svg" alt="Angular" height="40" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 9px" src="assets/vue.svg" alt="Vue.js" height="40" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 9px" src="assets/git.svg" alt="Git" height="40" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 9px" src="assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 9px" src="assets/css3.svg" alt="CSS3" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 9px" src="assets/html5.svg" alt="HTML5" height="40" /></a>
 </div>
 
 ###
@@ -73,14 +67,17 @@
 
 ###
 
-<!-- [![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DmitriyKhvan/DmitriyKhvan/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
-<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyKhvan&theme=tokyo-night&from=2024-10-01&to=2024-10-30) -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem">
+  <img style="grid-column: 1 / 3" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKhvan&theme=nord_dark" alt="profile-details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKhvan&theme=nord_dark" alt="repos-per-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyKhvan&theme=nord_dark" alt="most-commit-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKhvan&theme=nord_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitriyKhvan&theme=nord_dark&utcOffset=5" alt="productive-time" />
+</div>
 
 ###
 
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DmitriyKhvan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -90,9 +87,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DmitriyKhvan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriyKhvan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> 
 
-###
+### 
+-->
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriyKhvan.DmitriyKhvan&"  />
